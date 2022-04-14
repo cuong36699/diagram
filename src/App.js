@@ -86,7 +86,7 @@ export default function App() {
         // console.log(c, "Ádasd")
         // }}
         hasChanges={true}
-        autoZoomMode="fitWidth"
+        // autoZoomMode="fitWidth"
         simpleView={true}
         onItemDblClick={(item) => {
           handleOpen(item);
